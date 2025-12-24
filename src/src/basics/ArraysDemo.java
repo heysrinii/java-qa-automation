@@ -1,3 +1,5 @@
+// Java arrays example for QA automation
+
 package basics;
 
 public class ArraysDemo {
